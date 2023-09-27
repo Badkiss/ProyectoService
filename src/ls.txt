@@ -1,0 +1,14 @@
+Android/
+android-studio/
+AndroidStudioProjects/
+Descargas/
+Documentos/
+Escritorio/
+FlutterP/
+IdeaProjects/
+Imágenes/
+Música/
+Plantillas/
+Público/
+snap/
+Vídeos/
